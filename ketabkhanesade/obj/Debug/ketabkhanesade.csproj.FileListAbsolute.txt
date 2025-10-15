@@ -1,0 +1,8 @@
+C:\Users\lotus\source\repos\ketabkhanesade\ketabkhanesade\obj\Debug\ketabkhanesade.csproj.AssemblyReference.cache
+C:\Users\lotus\source\repos\ketabkhanesade\ketabkhanesade\obj\Debug\ketabkhanesade.csproj.SuggestedBindingRedirects.cache
+C:\Users\lotus\source\repos\ketabkhanesade\ketabkhanesade\obj\Debug\ketabkhanesade.csproj.CoreCompileInputs.cache
+C:\Users\lotus\source\repos\ketabkhanesade\ketabkhanesade\bin\Debug\ketabkhanesade.exe.config
+C:\Users\lotus\source\repos\ketabkhanesade\ketabkhanesade\bin\Debug\ketabkhanesade.exe
+C:\Users\lotus\source\repos\ketabkhanesade\ketabkhanesade\bin\Debug\ketabkhanesade.pdb
+C:\Users\lotus\source\repos\ketabkhanesade\ketabkhanesade\obj\Debug\ketabkhanesade.exe
+C:\Users\lotus\source\repos\ketabkhanesade\ketabkhanesade\obj\Debug\ketabkhanesade.pdb
