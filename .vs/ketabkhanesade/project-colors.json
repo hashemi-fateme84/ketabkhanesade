@@ -5,7 +5,12 @@
       "ProjectGuid": "3228c0aa-f700-4078-a400-5ffc79ac1aaa",
       "DisplayName": "ketabkhanesade",
       "ColorIndex": 0
+    },
+    "e70a232f-e75b-4885-a12c-bf6e25457ff9": {
+      "ProjectGuid": "e70a232f-e75b-4885-a12c-bf6e25457ff9",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
